@@ -2,7 +2,7 @@
 
 - Para buscar minha evolução como dev, estou começando a procurar alguns testes técnicos de nível júnior para react, e esse foi o primeiro.
 
-##React Interview Challenge #06
+## React Interview Challenge #06
 
 E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
 
