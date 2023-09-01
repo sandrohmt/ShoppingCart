@@ -23,7 +23,7 @@ Criar um carrinho de compras totalmente interativo. O usuário deve poder:
 
 ## Teste você mesmo: 
 
-- https://sandrohmt.github.io/Countries/
+- https://sandrohmt.github.io/ShoppingCart/
 
 ## Contato
 
