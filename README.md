@@ -21,6 +21,10 @@ Criar um carrinho de compras totalmente interativo. O usuário deve poder:
 - calcular soma total do preço dos produtos inseridos de acordo com suas quantidades
 - FUNCIONALIDADE EXTRA: aplicação de cupom de desconto
 
+## Teste você mesmo: 
+
+- https://sandrohmt.github.io/Countries/
+
 ## Contato
 
 - sandrohmt@gmail.com
